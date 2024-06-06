@@ -2,7 +2,7 @@
 print("AiQuest - Good Work")
 
 # Problem - 2
-batchNumber = int(input("Please inpurt your batch no "))
+batchNumber = int(input("Please inpurt your batch no :  "))
 print(batchNumber)
 
 # Problem - 3 Create 5 different valid Variables and print.
